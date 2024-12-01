@@ -154,9 +154,9 @@
     "rating":1.5
 }
 ```
-<div align="center" style="background-color: yellow; padding: 10px; border-radius: 5px;">
+<p align="center" style="background-color: yellow; padding: 10px; border-radius: 5px;">
   If you want to use this API for your own uses, it's okay, but do not use it for courses on YouTube and your tutorials.
-</div>
+</p>
 
 ### **links**
 [go to Postman](https://documenter.getpostman.com/view/34856142/2sAXxWbA31)
